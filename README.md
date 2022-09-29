@@ -1,7 +1,7 @@
 # autonomous_mobile_robot
 AURORA (autonomous mobile robot) is the research, conducted at IPB University, Indonesia. These codes are some parts of the development.
 
-The codes are wrote in arduino, using LIDAR sensor.
+The codes are wrote in arduino, using LIDAR sensor. I use arduino due.
 
 Functions in the codes:
 - LIDAR scanning
@@ -15,3 +15,5 @@ Functions in the codes:
 - Robot check the distance between robot and the 4-trees to determine the robot has been arrived or no at the center point
 - finish.
 
+Thank you.
+Yudha Putra Arisandy.
