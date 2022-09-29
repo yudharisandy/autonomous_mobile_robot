@@ -17,3 +17,4 @@ Functions in the codes:
 
 Thank you.
 Yudha Putra Arisandy.
+Part of Undergraduate thesis research, supervised by Dr. Slamet Widodo.
